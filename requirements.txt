@@ -1,0 +1,12 @@
+# JARVIS Windows - Gerekli paketler
+google-genai
+SpeechRecognition
+pyaudio
+psutil
+Pillow
+requests
+pyautogui
+pygetwindow
+pyperclip
+pyttsx3
+pywin32
